@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>Icons/icons8-opened-folder-100 (1).png</file>
+        <file>Icons/icons8-save-file-64.png</file>
+        <file>Icons/icons8-active-directory-48.png</file>
+        <file>Icons/icons8-approved-64.png</file>
+        <file>Icons/icons8-cross-mark-48.png</file>
+        <file>Icons/icons8-cross-mark-button-48.png</file>
+        <file>Icons/icons8-add-file-100.png</file>
+    </qresource>
+</RCC>
